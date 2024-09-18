@@ -1,6 +1,7 @@
-**Stock Market Predictor**
+**Stock Market Predictor**  
+<br>
 This project leverages machine learning to predict stock prices using LSTM (Long Short-Term Memory) neural networks. The model is trained on historical stock data and visualized using various technical indicators such as moving averages (MA50, MA100, MA200). The application is deployed as a real-time web app using Streamlit, allowing users to input a stock symbol and view the model's predictions alongside actual stock prices.
-
+<br>
 Tech Stack:
 Python: Core programming language
 TensorFlow & Keras: For building and training the neural network model
